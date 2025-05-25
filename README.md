@@ -31,6 +31,6 @@ bash <(curl -s https://raw.githubusercontent.com/idnodefiqul/install-nodejs/inst
 
 # Node Versi Script 
 
--18
--20
--22
+** 18
+** 20
+** 22
