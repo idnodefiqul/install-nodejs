@@ -26,4 +26,10 @@ A professional and automated Bash script to install Node.js on various operating
    Execute the script directly from this repository by specifying the desired Node.js version (18, 20, or 22). For example, to install Node.js version 22:
 
    ```bash
-   bash <(curl -s https://raw.githubusercontent.com/idnodefiqul/XL/main/install_node.sh) 22
+   bash <(curl -s https://raw.githubusercontent.com/idnodefiqul/install-nodejs/install.sh) the node version you want
+```
+#Node Versi Script 
+
+-18
+-20
+-22
